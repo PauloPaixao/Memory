@@ -1,3 +1,3 @@
 *Memory Game
 
-Bla blah!
+Simple memory game for kids.
